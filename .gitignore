@@ -9,6 +9,7 @@
 
 # User-specific files
 *.rsuser
+*.rsuser
 *.suo
 *.user
 *.userosscache
@@ -397,6 +398,7 @@ FodyWeavers.xsd
 *.msp
 
 # JetBrains Rider
+*.sln.iml
 *.sln.iml
 
 ### VisualStudio Patch ###
